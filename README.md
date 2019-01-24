@@ -1,8 +1,4 @@
-# chang_jinw_fip_studio_akira
-This was a solo project done all by Jin Woo Chang
+2 things for marco 
 
-Photographs were taken with Canon 6D 
-images were edited with Photoshop 
-logos and certain elements were created with Adobe Illustrator
-
-Thank you Marco for special help with slide show section 
+1.i have added PSD in case since for some reason files were too big for me to open it in adobe acrobat on my laptop 
+2.i have added .gitkeep inside images folder to make it show up (which it says i do have it in sublime text, but it will not show up at all in github for some odd reason) 
